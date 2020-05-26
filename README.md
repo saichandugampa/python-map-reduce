@@ -37,6 +37,13 @@ cat part.txt | python 21mapper.py | sort
 cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 
 ```
+Commands to process larger data file:
+```
+cat purchases.txt
+cat purchases.txt | python 21mapper.py
+cat purchases.txt | python 21mapper.py | sort
+cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
+```
 
 ## References
 
@@ -46,4 +53,4 @@ cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 
 ## Repository
 
-- [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
+- [https://github.com/saichandugampa/python-map-reduce](https://github.com/saichandugampa/python-map-reduce)
