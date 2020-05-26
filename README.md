@@ -54,3 +54,4 @@ cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
 ## Repository
 
 - [https://github.com/saichandugampa/python-map-reduce](https://github.com/saichandugampa/python-map-reduce)
+- [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
